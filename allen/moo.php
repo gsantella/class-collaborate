@@ -1,12 +1,10 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html>
 <head>
 
 </head>
 
 <body>
-	<?php
-		echo "moo";
-	?>
+	<?= "moo"; ?>
 </body>
 </html>
